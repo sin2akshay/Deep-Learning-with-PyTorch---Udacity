@@ -11,7 +11,7 @@ In this course, we cover the concepts behind deep learning and how to build deep
   
   
 ## Course Outline
-In this course, you'll learn the basics of deep neural networks and how to build various models using PyTorch. You'll get hands-on experience building state-of-the-art deep learning models.  
+In this course, we'll learn the basics of deep neural networks and how to build various models using PyTorch. We'll get hands-on experience building state-of-the-art deep learning models.  
   
 1. Introduction to Neural Networks
    * Learn the concepts behind deep learning and how we train deep neural networks with backpropagation.
